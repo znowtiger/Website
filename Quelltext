@@ -8,23 +8,23 @@ css:
 
 
 #Bilder		{ 	position: 	absolute;
-				width:		85%;
-				left: 		7%;
-				right:		5%;
-				height:		90%;
-				float:		left;
+			width:		85%;
+			left: 		7%;
+			right:		5%;
+			height:		90%;
+			float:		left;
 }	
 
 #Pod		{ 	position:	absolute;
-				width:		10%;
-				height:		30%;
+			width:		10%;
+			height:		30%;
 }
 
 #Profilfeld	{	position:		absolute;
-				width:			5%;
-				height:			5%;
-				left:			95%;
-				top:			5%;
+			width:			5%;
+			height:			5%;
+			left:			95%;
+			top:			5%;
 }
 
 
